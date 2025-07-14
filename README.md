@@ -16,7 +16,7 @@ This ZIP archive contains 27 screenshots from James Cupps' earlier materials (be
 - No quantization conditions, mass–period formulas, holonomy angles, or flux integrals were included.
 - These features appeared *suddenly* in July 2025 — directly after GENESIS became available.
 
-🔗 [Download archived screenshots (ZIP)](./cupps_pre_GENESIS.zip)
+🔗 [James Cupps old version before GENESIS was published.zip](./cupps_pre_GENESIS.zip)
 
 This archive serves as time-stamped evidence of the conceptual stage of the SKB model before mathematical borrowing.
 
