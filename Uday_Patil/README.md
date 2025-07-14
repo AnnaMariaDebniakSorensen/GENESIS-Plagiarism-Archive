@@ -20,8 +20,8 @@ This case documents the suspected reuse of multiple concepts and mechanisms from
 - 📄 [UdayPatil_afterGENESIS_21-27.jpg](./UdayPatil_afterGENESIS_21-27.jpg)  
   → Combined: full version of the **GEONIC** paper, with highlighted overlaps.
 
-- 📊 [Porównanie_GEONIC_vs_GENESIS.csv](./Por_wnanie_GEONIC_vs_GENESIS.csv)  
-  A line-by-line comparative table of **10+ mechanisms reused** from GENESIS.
+- 📊 [Comparison_GEONIC_vs_GENESIS__EN__.csv](./Comparison_GEONIC_vs_GENESIS__EN__.csv)
+ A line-by-line comparative table of **10+ mechanisms reused** from GENESIS.
 
 ---
 
