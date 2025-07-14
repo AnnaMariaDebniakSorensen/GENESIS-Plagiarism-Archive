@@ -24,8 +24,7 @@ Full analysis available in the CSV file above.
 ---
 
 ### 🔗 GENESIS publication
-
-DOI: [https://doi.org/10.5281/zenodo.11124927](https://doi.org/10.5281/zenodo.11124927)  
-Date: **2025-06-19**  
-Author: Anna Maria Dębniak Sørensen  
+ 2025-06-19 | Preprint
+DOI: 10.5281/ZENODO.15701148
+Contributors: Dębniak Sørensen Anna Maria  
 
