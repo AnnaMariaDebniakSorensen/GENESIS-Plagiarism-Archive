@@ -71,3 +71,38 @@ Full analysis available in the CSV file above.
 DOI: 10.5281/ZENODO.15701148
 Contributors: Dębniak Sørensen Anna Maria  
 
+
+
+Subject: Concerning the Overlap Between GEONIC Gravity and the GENESIS Model
+
+Dear [Editor / Professor / Colleague],
+
+I would like to raise a serious concern regarding Uday Patil’s recent work titled “GEONIC: Non-Singular Blackholes Theory”. After a thorough comparative analysis with my previously published theoretical model GENESIS: A Torsion-Based Cosmological Framework (DOI: https://doi.org/10.5281/zenodo.11124927, published on June 19, 2025), I have identified a significant number of conceptually identical mechanisms introduced in Patil's later version.
+
+While Patil’s earlier cosmological work (dated June 2025) contains no mention of bounded curvature, core regularization, torsion-inspired geometry, or gravitational self-regulation, his new 27-page GEONIC manuscript (shared on social media post-July 1) reproduces—without citation—the following original contributions introduced in GENESIS:
+
+    Bounded curvature condition K≤1/λ6K≤1/λ6,
+
+    Suppression of singularities via a smooth regulating function f(K)=tanh⁡(Kλ6)f(K)=tanh(Kλ6),
+
+    Replacement of singularities with a finite-density, geometrically defined core (TorusAM analogue),
+
+    Introduction of an effective geometric energy–momentum tensor TμνgeoTμνgeo​,
+
+    Modified Friedmann equations via curvature feedback (analogous to EC-TOV in GENESIS),
+
+    Thermodynamic stabilization of black hole remnants through geometric resistance,
+
+    Observable signatures including shifts in ringdown frequencies and photon sphere radii,
+
+    Rotational equilibrium mechanism countering collapse (analogous to THA in GENESIS).
+
+All of these mechanisms are introduced in GENESIS across parts I–III, with time-stamped and publicly indexed records. Their appearance in Patil’s work—without attribution—raises serious concerns about scientific integrity, originality, and proper scholarly conduct.
+
+I respectfully request that this matter be reviewed. A side-by-side comparative document is available upon request, clearly showing the conceptual and structural parallels.
+
+Sincerely,
+Anna Maria Dębniak Sørensen
+Author of the GENESIS Trilogy
+ORCID: https://orcid.org/0009-0001-7263-8068
+
