@@ -77,7 +77,7 @@ Subject: Concerning the Overlap Between GEONIC Gravity and the GENESIS Model
 
 Dear [Editor / Professor / Colleague],
 
-I would like to raise a serious concern regarding Uday Patil’s recent work titled “GEONIC: Non-Singular Blackholes Theory”. After a thorough comparative analysis with my previously published theoretical model GENESIS: A Torsion-Based Cosmological Framework (DOI: https://doi.org/10.5281/zenodo.11124927, published on June 19, 2025), I have identified a significant number of conceptually identical mechanisms introduced in Patil's later version.
+I would like to raise a serious concern regarding Uday Patil’s recent work titled “GEONIC: Non-Singular Blackholes Theory”. After a thorough comparative analysis with my previously published theoretical model GENESIS: A Torsion-Based Cosmological Framework (DOI: https://doi.org/10.5281/ZENODO.15701148 , published on June 19, 2025), I have identified a significant number of conceptually identical mechanisms introduced in Patil's later version.
 
 While Patil’s earlier cosmological work (dated June 2025) contains no mention of bounded curvature, core regularization, torsion-inspired geometry, or gravitational self-regulation, his new 27-page GEONIC manuscript (shared on social media post-July 1) reproduces—without citation—the following original contributions introduced in GENESIS:
 
