@@ -21,7 +21,7 @@ The July version of Adrian Lipa’s manuscript contains numerous concepts and ma
 
 ## 📂 Files
 
-- [`AdrianLipaplagiat-20250713193623.pdf`](Adrian_Lipa_plagiarism_report.pdf) – detailed comparative analysis with annotated examples
+- AdrianLipaplagiat-20250713193623.pdf– detailed comparative analysis with annotated examples
 -  full image documentation of the July 2025 version
 - Old_version_May2025.pdf` – original pre-GENESIS draft
 
