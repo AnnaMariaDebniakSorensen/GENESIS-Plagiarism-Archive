@@ -15,8 +15,9 @@
 - 🧵 [correspondence_summary.md](./James%20Cupps%20plagiat%20linkedin-20250714093855.pdf)  
   Full message exchange between the author and James Cupps showing refusal to acknowledge source.
 
-- 🗂️ [James Cupps old version before GENESIS was published.zip](./James%20Cupps%20old%20version%20before%20GENESIS%20was%20published.zip)  
+- 🗂️ [James Cupps – Old Version Before GENESIS (ZIP)](./James%20Cupps%20old%20version%20before%20GENESIS%20was%20published.zip)  
   Screenshots from SKB drafts before June 2025 — no math present, only conceptual diagrams.
+
 
 ---
 
