@@ -16,6 +16,13 @@ Arbab Ibrahim published a series of posts reusing GENESIS concepts and formulas 
 
 All posts were edited after the publication of GENESIS and appear to have been retroactively altered to claim conceptual priority.
 
+## 📄 Evidence Report
+
+You can access the complete documentation of this case in the following PDF file:
+
+📄 [Download full forensic report (PDF)](./PLAGIAT%20ARBAB%20IBRAHIM-20250713202328.pdf)
+
+
 ## Status: 📌 Report pending upload
 
 # 🔍 FULL ANALYSIS OF PLAGIARISM CASE: ARBAB IBRAHIM vs GENESIS
