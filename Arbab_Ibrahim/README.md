@@ -18,7 +18,7 @@ All posts were edited after the publication of GENESIS and appear to have been r
 
 ## Status: 📌 Report pending upload
 
-# 🔍 FULL ANALYSIS OF PLAGIARISM CASE: ARBAB IBRAHIM vs GENESIS (temp. 0.1)
+# 🔍 FULL ANALYSIS OF PLAGIARISM CASE: ARBAB IBRAHIM vs GENESIS
 
 ## 📌 FINAL CONCLUSIONS:
 
