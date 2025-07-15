@@ -1,4 +1,4 @@
-# Case: Arbab Ibrahim (Saudi Arabia)
+# Case: PROF.Arbab Ibrahim 
 
 This folder contains evidence of plagiarism of the GENESIS framework by Arbab Ibrahim, posted publicly on LinkedIn between June and July 2025.
 
