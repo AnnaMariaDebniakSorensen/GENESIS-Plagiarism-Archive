@@ -3,7 +3,7 @@
 **Date of publication (McGinty):** July 17, 2025  
 **Date of GENESIS release:** June 19, 2025 (DOI: [10.5281/zenodo.15701148](https://doi.org/10.5281/zenodo.15701148))  
 **Status:** No citation or acknowledgment of prior work despite significant conceptual overlap  
-**Author profile:** [LinkedIn](https://www.linkedin.com/in/christophermcginty/) (non-academic, CEO of Skywise AI)
+**Author profile:** [LinkedIn]](https://www.linkedin.com/in/christopherrmcginty/) (non-academic, CEO of Skywise AI)
 
 ---
 
@@ -17,7 +17,7 @@ Despite the public availability and timestamped release of GENESIS on Zenodo (wi
 
 ## 🧾 Documentation
 
-- 📄 [Comparative Analysis GENESIS vs McGinty (PDF)](./Comparative_Analysis_GENESIS_vs_McGinty.pdf)
+- 📄 [Comparative Analysis GENESIS vs McGinty (PDF)](./1Comparative_Analysis_GENESIS_vs_McGinty.pdf)
 - 🖼️ [Screenshot of McGinty's LinkedIn Profile](./Screenshot_LinkedIn_Profile.png)
 
 ---
