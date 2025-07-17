@@ -17,8 +17,8 @@ Despite the public availability and timestamped release of GENESIS on Zenodo (wi
 
 ## 🧾 Documentation
 
-- 📄 [Comparative Analysis GENESIS vs McGinty (PDF)](./1Comparative_Analysis_GENESIS_vs_McGinty.pdf)
-- 🖼️ [Screenshot of McGinty's LinkedIn Profile](./Screenshot_LinkedIn_Profile.png)
+- 📄 [1Comparative Analysis GENESIS vs McGinty (PDF)](Chris_McGinty/1Comparative Analysis GENESIS vs McGinty-20250717204719.pdf)
+
 
 ---
 
