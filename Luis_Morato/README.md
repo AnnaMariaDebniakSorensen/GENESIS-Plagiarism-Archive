@@ -47,6 +47,8 @@ This constitutes a clear breach of scientific ethics and attribution.
 - Publication dates show GENESIS was released **before** both of Morató’s uploads.
 - No citation or attribution to GENESIS was provided.
 
+📷 [Z₀ Bifurcation Screenshot – LinkedIn Post (18 July 2025)](Zrzut ekranu 2025-07-18 o 10.41.41.png)
+
 ---
 
 ## 📮 Status
