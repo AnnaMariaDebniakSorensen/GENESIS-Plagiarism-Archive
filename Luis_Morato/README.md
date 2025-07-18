@@ -2,6 +2,15 @@
 
 ## ❗ Suspected Uncredited Reuse of GENESIS Framework
 
+
+
+The conceptual foundation of both Zenodo publications by Luis Morató de Dalmases relies heavily on the GENESIS model — particularly its treatment of dark energy as structured geometric fields, its use of bifurcation topology (S²∩T), toroidal solitons, and phase-induced resonance.
+
+❗ However, **GENESIS is neither cited nor acknowledged** in any form, and the **true author of the theoretical framework (Anna Maria Dębniak Sørensen)** is not credited anywhere in the works.
+
+This constitutes a clear breach of scientific ethics and attribution.
+
+
 ### 🚩 Suspected Works:
 - **[DEQ and Photons](https://doi.org/10.5281/zenodo.16059545)**  
   _Published: 18 July 2025_
