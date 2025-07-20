@@ -20,6 +20,13 @@ However, v2.0 introduces **mathematical structures, terminology, and thematic or
 | v1.0 (Italian version) | May 30, 2025 | [10.5281/zenodo.15557393](https://doi.org/10.5281/zenodo.15557393) | [📄 `Codex_Alpha-3 (1)-1.pdf`](Codex_Alpha-3%20(1)-1.pdf) |
 | v2.0 (Italian version) | July 19, 2025 | [10.5281/zenodo.16131379](https://doi.org/10.5281/zenodo.16131379) | [📄 `Codex_Alpha_2.0_Versione_Italiana.pdf`](Codex_Alpha_2.0_Versione_Italiana.pdf) |
 
+
+### 📸 Version History Screenshot
+
+Below is a screenshot from the official Zenodo record showing all three published versions of **Codex Alpha**, with their respective dates and DOIs:
+
+![Codex Alpha Versions – Zenodo Screenshot](./Zrzut%20ekranu%202025-07-20%20o%2012.32.03.png)
+
 ---
 
 ## 🕵️‍♀️ Next Steps (To Be Added)
