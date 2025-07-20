@@ -238,7 +238,7 @@ In this message — **written before any private conversation took place about c
 
 This was **prior to being confronted** about the **structural and mathematical similarities** between GENESIS and Codex Alpha v2.0.
 
-🕓 Timestamp: ~10 hours after Codex Alpha v2.0 release  
+🕓 Timestamp: ~18 hours after Codex Alpha v2.0 release and 10 hours before I took this print screen on sunday 20 july 2025 around 14 o'clock 
 🗓️ Date: Early July 20, 2025  
 🧾 Evidence: public LinkedIn thread (screenshot below)
 
