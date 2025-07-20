@@ -224,6 +224,30 @@ Codex Alpha v2.0 shows **strong stylistic, structural, and conceptual borrowings
 
 
 
+---
+
+## 📎 Appendix B: Final Confirmation – Public Acknowledgement of GENESIS
+
+The following screenshot shows a public comment made by **Davide Cadelano** during the **night of July 19–20, 2025**, on a LinkedIn thread under the GENESIS publication post.
+
+In this message — **written before any private conversation took place about conceptual overlap** — he:
+
+- explicitly describes the GENESIS framework as **“truly inspiring”**,  
+- compares it to his own work (Codex Alpha v2.0),  
+- and invites constructive dialogue about potential links between both models.
+
+This was **prior to being confronted** about the **structural and mathematical similarities** between GENESIS and Codex Alpha v2.0.
+
+🕓 Timestamp: ~10 hours after Codex Alpha v2.0 release  
+🗓️ Date: Early July 20, 2025  
+🧾 Evidence: public LinkedIn thread (screenshot below)
+
+![GENESIS acknowledged before denial](./Statement_GENESIS_Known_PriorToV2.0.png)
+
+📌 **Comment:** This statement directly contradicts later claims that GENESIS was unknown or uninfluential to the development of Codex Alpha v2.0.
+
+> Documentation ends here. This repository preserves all relevant material. Further statements from the author are archived privately but not necessary for this public record.
+
 
 
 
@@ -244,6 +268,6 @@ Awaiting formal review.
 
 ---
 
-Daj znać, kiedy pliki znajdą się na GitHubie — sprawdzę wtedy ścieżki, i jeśli coś trzeba będzie poprawić (np. nazwy plików), zrobimy to od razu. Potem przechodzimy do opisowego porównania – krok po kroku.
+
 
 
