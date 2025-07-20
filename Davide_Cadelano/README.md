@@ -17,7 +17,7 @@ However, v2.0 introduces **mathematical structures, terminology, and thematic or
 | Version | Date | DOI | File |
 |--------|------|-----|------|
 | v1.1 (English version) | March 6, 2025 | [10.5281/zenodo.15587185](https://doi.org/10.5281/zenodo.15587185) | [📄 `Codex_Alpha_English_Version.pdf`](Codex_Alpha_English_Version.pdf) |
-| v1.0 (Italian version) | May 30, 2025 | [10.5281/zenodo.15557393](https://doi.org/10.5281/zenodo.15557393) | [📄 `Codex_Alpha-3 (1).pdf`](Codex_Alpha-3%20(1).pdf) |
+| v1.0 (Italian version) | May 30, 2025 | [10.5281/zenodo.15557393](https://doi.org/10.5281/zenodo.15557393) | [📄 `Codex_Alpha-3 (1)-1.pdf`](Codex_Alpha-3%20(1)-1.pdf) |
 | v2.0 (Italian version) | July 19, 2025 | [10.5281/zenodo.16131379](https://doi.org/10.5281/zenodo.16131379) | [📄 `Codex_Alpha_2.0_Versione_Italiana.pdf`](Codex_Alpha_2.0_Versione_Italiana.pdf) |
 
 ---
