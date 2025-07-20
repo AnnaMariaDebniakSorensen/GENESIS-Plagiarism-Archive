@@ -4,7 +4,7 @@
 
 This folder contains a documented comparison of all published versions of **Codex Alpha** by Davide Cadelano, in relation to the previously released **GENESIS** framework.
 
-GENESIS was publicly published on **June 19, 2025**  
+GENESIS was publicly published on **June 19, 2025**  GENESIS DOI: [10.5281/zenodo.15701148](https://doi.org/10.5281/zenodo.15701148)
 Codex Alpha v2.0 was published on **July 19, 2025**
 
 Earlier versions of Codex Alpha — v1.0 (May) and v1.1 (March) — do not contain overlapping content with GENESIS.  
@@ -136,11 +136,11 @@ Codex Alpha v2.0 shows **strong stylistic, structural, and conceptual borrowings
 
 
 
-## 🔍 Main Differences: “Codex Alpha” – May vs. July 2025
+## 🔍 Main Differences: “Codex Alpha” – March, May vs. July 2025
 
-### 1. **No developed formal equations in the May and Juni version**
+### 1. **No developed formal equations in the March, May  versions**
 
-- The May and Juni version does not contain any Riemann tensor expansion, nor its connection to ∇K, nor any *derivation of the Einstein tensor from the informational field*.
+- The March, May version does not contain any Riemann tensor expansion, nor its connection to ∇K, nor any *derivation of the Einstein tensor from the informational field*.
 - The July version (v2.0) includes a **full derivation**:
 
   $$
@@ -149,13 +149,13 @@ Codex Alpha v2.0 shows **strong stylistic, structural, and conceptual borrowings
 
   with detailed development of the metric, curvature, and the projection operator.
 
-📌 **Conclusion**: The May and June version is a loose hypothesis with no mathematical formalism. The July version introduces new sections with complete equation formalism – which **coincides with the publication of GENESIS (19 June 2025)**.
+📌 **Conclusion**: The March, May versions is a loose hypothesis with no mathematical formalism. The July version introduces new sections with complete equation formalism – which **coincides with the publication of GENESIS (19 June 2025)**.
 
 ---
 
 ### 2. **“Coherence gradient” ∇K – new physical functionality**
 
-- In May and June, ∇K is simply the variation of the K field, described analogously to electrostatics.
+- In March, May, ∇K is simply the variation of the K field, described analogously to electrostatics.
 - In July, ∇K becomes the **core of spacetime geometry** – playing a role similar to torsion in GENESIS, even appearing in the metric:
 
   $$
@@ -168,7 +168,7 @@ Codex Alpha v2.0 shows **strong stylistic, structural, and conceptual borrowings
 
 ### 3. **Lack of “observational predictions” in March**
 
-- The May and June version contains no mention of falsifiable predictions based on data (LIGO, JWST, GAIA).
+- The March, May versions contains no mention of falsifiable predictions based on data (LIGO, JWST, GAIA).
 - In July, there are **4 specific protocols (M1–M4)**, with predictions of:
   - ∆z shifts
   - phase fluctuations
@@ -181,7 +181,7 @@ Codex Alpha v2.0 shows **strong stylistic, structural, and conceptual borrowings
 
 ### 4. **New modules in the style of GENESIS: NODAL engine, propulsion, informational trajectories**
 
-- In May and June, there is no concept of propulsion.
+- In March, May, there is no concept of propulsion.
 - In July: an expanded description of the **NODAL engine**, based on ∇K, appears – highly reminiscent of the torsion-driven engine in GENESIS:
 
   $$
@@ -195,7 +195,7 @@ Codex Alpha v2.0 shows **strong stylistic, structural, and conceptual borrowings
 
 ### 5. **New presence of chapters on “tensor structure” and “emergent metric”**
 
-- The May and Juni version presents Telascura as a philosophical construct with elements of string theory.
+- The March, May versions presents Telascura as a philosophical construct with elements of string theory.
 - In July: a mathematical reconstruction of the Einstein tensor from the informational field appears, with full analogy to QFT.
 
 📌 **Convergence with GENESIS**: GENESIS also derives the field tensor (Einstein–Cartan) from a geometric field and its torsional coupling.
@@ -204,21 +204,21 @@ Codex Alpha v2.0 shows **strong stylistic, structural, and conceptual borrowings
 
 ### 6. **New definitions and operator-based constructs (Hilbert space, projections, etc.)**
 
-- The May and Juni version does not contain Hilbert operators, functionals, projections, etc.
+- The March, May version does not contain Hilbert operators, functionals, projections, etc.
 - In July: **projections Π∇K**, operator forms like ⟨T̂μν⟩, weight functions suddenly appear – a style highly aligned with the formal structure of GENESIS.
 
 ---
 
 ### 7. **Added tabular classifications of “exotic elements” (E01–E28)**
 
-- Many of these terms did not exist in May and Juni (e.g., Syntopic Stabilizer, Biphonon Band).
+- Many of these terms did not exist in March, May (e.g., Syntopic Stabilizer, Biphonon Band).
 - New entries often refer to **terminology of solitons, resonators, oscillators**, which were previously introduced in GENESIS (e.g., torsion structures, jets, wave jets).
 
 ---
 
 ### 🔚 General Conclusion
 
-🔴 **The May and Juni 2025 version** is an early, metaphysical, and very general proposal of an “informational substrate” of the Universe.  
+🔴 **The March, May 2025 version** is an early, metaphysical, and very general proposal of an “informational substrate” of the Universe.  
 🟢 **The July 2025 version** (after the publication of GENESIS) contains a **fully expanded mathematical, operator-based, observational, and constructive framework**, which **matches fundamental elements of the GENESIS model**, although renamed (torsion → ∇K, THA → ∇K structures, jets → informational filaments, etc.).
 
 
