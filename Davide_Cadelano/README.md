@@ -5,6 +5,7 @@
 This folder contains a documented comparison of all published versions of **Codex Alpha** by Davide Cadelano, in relation to the previously released **GENESIS** framework.
 
 GENESIS was publicly published on **June 19, 2025**  GENESIS DOI: [10.5281/zenodo.15701148](https://doi.org/10.5281/zenodo.15701148)
+
 Codex Alpha v2.0 was published on **July 19, 2025**
 
 Earlier versions of Codex Alpha — v1.0 (May) and v1.1 (March) — do not contain overlapping content with GENESIS.  
