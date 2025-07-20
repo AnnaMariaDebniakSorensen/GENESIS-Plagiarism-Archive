@@ -1,22 +1,50 @@
 # Case: Davide Cadelano
 
-## Summary
+## Overview
 
-This folder documents the conceptual and structural overlaps between the GENESIS framework (June 2025) and Codex Alpha v2.0 (July 2025) by Davide Cadelano.
+This folder contains a documented comparison of all published versions of **Codex Alpha** by Davide Cadelano, in relation to the previously released **GENESIS** framework.
 
-Versions v1.0 and v1.1 of Codex Alpha (March and May) do not contain the critical mathematical content or terminology that appeared only in version v2.0 — one month after the publication of GENESIS.
+GENESIS was publicly published on **June 19, 2025**  
+Codex Alpha v2.0 was published on **July 19, 2025**
 
-## Key Evidence
+Earlier versions of Codex Alpha — v1.0 (May) and v1.1 (March) — do not contain overlapping content with GENESIS.  
+However, v2.0 introduces **mathematical structures, terminology, and thematic organization strongly resembling GENESIS**, appearing for the first time after GENESIS was made public.
 
-- GENESIS publication: June 19, 2025 — DOI: [10.5281/zenodo.15701148](https://doi.org/10.5281/zenodo.15701148)
-- Codex Alpha v2.0: July 19, 2025 — DOI: [10.5281/zenodo.16131379](https://doi.org/10.5281/zenodo.16131379)
-- Earlier Codex Alpha versions: v1.1 (Mar 6) and v1.0 (May 30) do not contain overlapping structures.
-- Major additions in v2.0: modified field equations, emergent metric using ∇K, analogues to torsion, jet terminology, etc.
+---
 
-📂 Further documentation (PDFs, screenshots, and diff comparisons) will be added to this folder.
+## 🔽 Available Versions of Codex Alpha (PDF)
 
-## Status
+| Version | Date | DOI | File |
+|--------|------|-----|------|
+| v1.1 (English version) | March 6, 2025 | [10.5281/zenodo.15587185](https://doi.org/10.5281/zenodo.15587185) | [📄 `Codex_Alpha_English_Version.pdf`](Codex_Alpha_English_Version.pdf) |
+| v1.0 (Italian version) | May 30, 2025 | [10.5281/zenodo.15557393](https://doi.org/10.5281/zenodo.15557393) | [📄 `Codex_Alpha-3 (1).pdf`](Codex_Alpha-3%20(1).pdf) |
+| v2.0 (Italian version) | July 19, 2025 | [10.5281/zenodo.16131379](https://doi.org/10.5281/zenodo.16131379) | [📄 `Codex_Alpha_2.0_Versione_Italiana.pdf`](Codex_Alpha_2.0_Versione_Italiana.pdf) |
 
-🟠 Under review  
-Reported to Zenodo on July 20, 2025.
+---
+
+## 🕵️‍♀️ Next Steps (To Be Added)
+
+- Detailed textual and mathematical comparison of v1.0, v1.1, and v2.0
+- Comparison matrix between GENESIS and v2.0
+- Timeline analysis with publication evidence
+- Screenshots of public claims regarding originality
+
+---
+
+## ⏳ Status
+
+**Plagiarism report filed with Zenodo on July 20, 2025.**  
+Awaiting formal review.
+
+---
+
+## ➕ Related Links
+
+- GENESIS DOI: [10.5281/zenodo.15701148](https://doi.org/10.5281/zenodo.15701148)
+- Public discussion thread (LinkedIn): *link to post or screenshot pending*
+
+---
+
+Daj znać, kiedy pliki znajdą się na GitHubie — sprawdzę wtedy ścieżki, i jeśli coś trzeba będzie poprawić (np. nazwy plików), zrobimy to od razu. Potem przechodzimy do opisowego porównania – krok po kroku.
+
 
